@@ -8,10 +8,9 @@
 ---
 
 ### **About Me**
-- Systems Architect focused on clean backend architecture and scalable systems  
-- CRM and workflow automation specialist — especially with Bitrix24  
-- Passionate about building, learning, and delivering value through smart solutions  
-- Outside of work: skydiver, photographer, explorer of all things tech and creative
+- I build systems that improve daily workflows, streamline processes and overall experiences
+- Passionate about building, learning, and delivering value through impactful solutions
+- Outside of work: skydiver, photographer, exploring the outdoors
 
 ---
 
@@ -19,7 +18,6 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -35,6 +33,7 @@
   <img src="https://img.shields.io/badge/Bitrix24-00AEEF?style=for-the-badge&logo=data:image/svg+xml;base64,[bitrix_logo]" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Apache%20Superset-181717?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-181717?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 ---
