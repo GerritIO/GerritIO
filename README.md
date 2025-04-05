@@ -21,7 +21,7 @@
   <!-- Theme-aware logos with background transparency -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,flask,fastapi,html,css,js,github,docker,nginx,linux,postgres&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=python,flask,fastapi,html,css,js,github,docker,nginx,linux,postgres" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,github,docker,nginx,linux,postgres" />
   </picture>
   <br/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
