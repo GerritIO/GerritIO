@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Bitrix24-00AEEF?style=for-the-badge&logo=data:image/svg+xml;base64,[bitrix_logo]" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Apache%20Superset-181717?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-181717?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-white?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
 </p>
 
 ---
